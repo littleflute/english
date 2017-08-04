@@ -1,4 +1,4 @@
-### [v0.0.9](https://github.com/littleflute/english/edit/master/Chao%20qing%20song/readme.md)
+### [v0.1.0](https://github.com/littleflute/english/edit/master/Chao%20qing%20song/readme.md)
 ### [Chapter 1 Living](Chapter 1 Living)
 ### [Chapter 2 Diet](Chapter 2 Diet)
 ### [Chapter 3 Shopping](Chapter 3 Shopping)
@@ -6,3 +6,6 @@
 ### [Chapter 5 Working](Chapter 5 Working)
 ### [Chapter 6 Calling](Chapter 6 Calling)
 ### [Chapter 7 Communication](Chapter 7 Communication)
+### [Chapter 8 Leisure](Chapter 8 Leisure)
+### [Chapter 9 Traveling](Chapter 9 Traveling)
+### [Chapter 10 Love](Chapter 10 Love)
