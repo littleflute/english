@@ -1,0 +1,595 @@
+
+
+<!DOCTYPE html>
+<!-- created by blp.bat -->
+<html>
+<head>
+<script src = "bls.js"></script>	
+</head>
+<body>
+
+<div id="blVer">
+<a href = "https://littleflute.github.io/blog/html/tools/blp/" target = "_blank">home</a>-
+<a href = "https://github.com/littleflute/blog/new/master/html/tools/blp" target = "_blank">new</a>-
+<a href = "https://github.com/littleflute/blog/issues/229" target="_blank">log</a> - v1.1.4
+:#: blDiv
+
+<span id = "blDbg"></span>
+</div>
+
+<textarea id = "blDiv" style = "display:none;">
+function blBtn(oBoss,id,html){
+    var r = document.getElementById(id);
+    if(!r){
+        r = document.createElement("button");
+        r.id = id;
+    	r.innerHTML = html; 
+        r.style.backgroundColor="green";
+    	if(oBoss!=null)oBoss.appendChild(r);
+    }
+    return r;
+}
+function blDiv(oBoss,id,html){
+    var r = document.getElementById(id);
+    if(!r){
+        r = document.createElement("div");
+        r.id = id;
+        r.style.border = "1px solid #3d3d3d";
+        r.style.position = "fixed";
+        r.style.top	=0;
+        r.style.width = "100%";
+        r.style.height = "100%";
+        r.style.backgroundColor="rgb(0,100,120)";
+        r.style.display = "none";
+
+    	r.innerHTML = html; 
+    	if(oBoss!=null) oBoss.appendChild(r);
+    }
+    return r;
+}
+var blTools = blBtn(document.body,"BLTOOLS","BlTools+"); 
+blTools.onclick = function(){
+	var divBlView = blDiv(document.body,"BLVIEW","BlView_V0.0.4");
+	var btnClose = blBtn(divBlView,"CloseBtn","close"); 
+    btnClose.onclick = function(){
+    	divBlView.style.display="none";
+    }
+    if(divBlView.style.display=="none"){
+    	divBlView.style.display="block"; 
+    } 
+    
+}
+blTools.onclick();
+</textarea>
+
+<textarea id = "blKlines" style = "display:none;">
+this.blKlines = klines;
+var c = this.blKlines("idKlinesBossDiv","idKlinesCanvas","xauyears.js");
+c.plShow(); 
+
+function klines(idBossDiv,id,src){
+    this.blKlines.blV = "v0.1.2";
+    
+    var r = document.getElementById(id);
+    if(!r){
+        r = document.createElement("canvas");
+        r.id = id;
+    }
+    r.src = src; 
+    r.style.border = "red 1px solid";
+    var boss = document.getElementById(idBossDiv);
+    if(!boss) {
+        boss = document.createElement("div");
+        document.body.appendChild(boss);
+        boss.id = idBossDiv;
+    }
+    boss.appendChild(r);
+    r.blBoss = boss;
+    r.onclick = function(){}
+    r.onmouseout = function(e){
+      pvDrawBkgnd("black");
+    }
+    r.onmousemove = function(e){
+      pvDrawBkgnd("black");
+      var ctx = r.getContext("2d");
+      ctx.beginPath();  
+
+      var coord = getPointerPosition(e)  
+      var x = coord.x;
+      var y = coord.y; 
+      ctx.font = "20px Arial";
+      ctx.fillStyle = "blue";
+      var s = "min:"+fKmin;
+      ctx.fillText(s,x,y); 
+
+    }
+    var xauScript = this.blScript("xauyears",r.src);
+    var fKmin = 1040;
+    var fKmax = 1400;
+    var pvDrawBkgnd = function(clr){
+	var ctx = r.getContext("2d");
+  	ctx.beginPath();  
+  	var w = r.width;
+  	var h = r.height;
+  	ctx.fillStyle = clr;
+  	ctx.fillRect(0,0,w,h);
+
+	ctx.font = "20px Arial";
+  	ctx.fillStyle = "blue";
+  	var s = "min:"+fKmin;
+  	ctx.fillText(s,w*.6,h*.8); 
+  	s = "max:"+fKmax;
+  	ctx.fillText(s,w*.6,h*.2);
+    } 
+    r.plShow = function (){
+     	pvDrawBkgnd("black");  
+    }
+    this.blKlines.blC = r;
+    return r;
+} 
+ </textarea>
+
+<textarea id = "blCss" style = "display:none;">
+this.blCss = css;
+this.blCss(this,{'backgroundColor':'gray'});
+
+this.blCss.v = "0.0.1";
+function css(elem,prop) {
+   
+ for(var i in prop) {
+  if(i == 'opacity') {
+   //setOpacity(elem,prop[i]);
+  } else {
+   elem.style[i] = prop[i];
+  }
+ }
+ return elem;
+}
+</textarea>
+
+<textarea id = "blObj" style = "display:none;">
+this.blShowObj = showObj;
+this.blShowObj(this.blShowObj);
+
+ 
+function showObj(obj){
+    this.blShowObj.blV = "v0.5.4";
+    var oBoss = document.getElementById("divBlShowObj");
+    if(!oBoss) {
+       oBoss = document.createElement("div");
+       oBoss.id = "divBlShowObj";
+       oBoss.style.border = "green 1px solid";
+       document.body.appendChild(oBoss);
+     } 
+    if(!oBoss){
+        alert("boss error!");return;
+    }
+    oBoss.innerHTML = "";
+    for(i in obj)
+    {
+      var b = document.createElement("button");
+      b.id = b.innerHTML = i;
+      if(i[0]=="b"&&i[1]=="l") b.style.backgroundColor = "yellow";
+      oBoss.appendChild(b);
+      var d = document.createElement("div");
+      d.innerHTML = obj[i];
+      d.style.border = "blue 1px solid";
+      d.style.backgroundColor = "green";
+      d.style.color = "yellow";
+      oBoss.appendChild(d);
+    }
+}  
+</textarea>
+
+<textarea id = "blScript" style = "display:none;">
+this.blScript = script;
+var s1 = this.blScript("s1","m.js"); 
+
+function script(id,src){
+    var r = document.getElementById(id);
+    if(!r){
+        r = document.createElement("script");
+        r.id = id;
+    }
+    r.src = src; 
+    document.body.appendChild(r);
+    return r;
+}
+
+ 
+</textarea>
+
+
+<textarea id = "blAjax" style = "display:none;">
+function blAjax(){ 
+  this.getData = function (oBoss,src)
+  { 
+     if(!oBoss){alert("boss error!");return;}
+     if(oBoss){
+        var xmlhttp;
+	if (window.XMLHttpRequest)
+	{//"code for IE7+, Firefox, Chrome, Opera, Safari"
+		xmlhttp = new XMLHttpRequest();
+	}
+	else
+	{// code for IE6, IE5
+		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	xmlhttp.boss = oBoss;
+	xmlhttp.src = src;
+	xmlhttp.parseData = function(b,txt) 
+	{
+            if(b)
+            {
+              var d = document.getElementById("idParseData");
+              if(!d){ 
+		  d = document.createElement("div");
+		  d.id = "idParseData";
+	       	  xmlhttp.boss.appendChild(d);
+		  d.n = 0;
+		  d.m = 0;
+
+		  d.style.border = "red 1px solid";
+              }
+ 	      d.n++;
+              var j = JSON.parse(txt);
+              var j1 = j[0];
+	      d.innerHTML = d.m + "=m : n= " + d.n + " sell: " + j1.sell+ " - " + j1.updatetime + "<br>" + txt;
+	    }
+            else
+            {
+              d.m++;
+            }
+            
+            xmlhttp.boss.ajax.getData(xmlhttp.boss,xmlhttp.src);
+	}
+        xmlhttp.onreadystatechange=function()
+	{
+		if (xmlhttp.readyState==4 && xmlhttp.status==200)
+		{
+			xmlhttp.parseData(true,xmlhttp.responseText); 
+		}
+                else
+                {
+                	xmlhttp.parseData(false,0); 
+                }
+	}
+	xmlhttp.open("GET",src,true);
+	xmlhttp.send();
+    }
+  } 
+} 
+var o = document.getElementById("d11");
+if(o) {
+  o.ajax = new blAjax();
+  o.ajax.getData(o,"http://api.baidao.com/api/hq/npdata.do?ids=201");
+}
+else
+{
+  alert("No div 'd11'!");
+}
+</textarea>
+
+
+<textarea id = "blMp4Player" style = "display:none;">
+this.blMp4Player = function (){
+ this.blMp4Player.blV = "v0.5.9";
+ this.blMp4Player.v059 = "+: if(f.length>1) document.blLoadOK = true;";
+ this.blMp4Player.v058 = "m: d.id = i; auto play next song";
+ this.blMp4Player.v057 = "+: v.playObj";
+ this.blMp4Player.v056 = "+: onclick : to play";
+ this.blMp4Player.v055 = "+: idDirLyr";
+ this.blMp4Player.v054 = "work as: this.blMp4Player";
+
+ var d = document.getElementById("idDivBlMp4Player");
+ if(!d){
+    d = document.createElement("div");
+    d.id = "idDivBlMp4Player";
+    d.style.border = "1px solid green";
+    document.body.appendChild(d);
+    var v = document.createElement("video");
+    v.id = "idBlMp4Player";
+    v.volume = 0.2;
+    d.appendChild(v);
+    v.oLast = null;
+    v.playObj = function (o){  
+       if(v.oLast) {						
+            v.oLast.style.backgroundColor = "green";}
+       v.src = o.innerHTML;
+       v.play();
+       o.style.backgroundColor="yellow";	
+       v.oLast = o;
+    }
+
+    var l = document.createElement("div");
+    l.id = "idDivLyr";
+    l.style.border = "1px solid red";
+    d.appendChild(l);
+
+    this.blMp4Player.v = v;
+    this.blMp4Player.d = d;
+ }
+	
+    this.blMp4Player.blMakeList = function(){	 		
+       var boss = document.getElementById("idDivBlMp4Player");			
+       for (var i = 1; i<f.length;i++)
+       {	
+          var d = document.createElement("button");
+          d.style.border = "1px solid blue";
+       	  d.id = i;//"song"+i;
+          d.onclick = function(){
+		var v = document.getElementById("idBlMp4Player");
+                v.playObj(this);
+	  }
+          d.innerHTML = f[i];
+          boss.appendChild(d);
+       }
+       if(f.length>1) document.blLoadOK = true;				 
+   }	
+    this.blMp4Player.myTimeFun = function(){	 		
+       var p = document.getElementById("idBlMp4Player"); 		
+       var lr = document.getElementById("idDivLyr");	 	 
+       lr.innerHTML = new Date();
+       if(p.ended){
+          var v = document.getElementById("idBlMp4Player");
+          var id = parseInt(v.oLast.id)+1;
+          var b = document.getElementById(id);
+          if(b==null) b = document.getElementById("1");	
+          b.click();
+       }						 
+   }				
+							
+   setInterval(this.blMp4Player.myTimeFun, 1000);
+
+}
+
+this.blMp4Player();
+this.blMp4Player.blMakeList();
+</textarea>
+
+
+
+
+<textarea id = "blIframe" style = "display:none;">
+function blIframe(id,src){
+    var r = document.getElementById(id);
+    if(!r){
+        r = document.createElement("iframe");
+        r.id = id;
+        r.style.border = "1px solid red";
+    }
+    r.src = src; 
+    document.body.appendChild(r);
+    return r;
+}
+var i1 = blIframe("i1","mi.bat"); 
+var i2 = blIframe("i2","mp4i.bat"); 
+
+ 
+</textarea>
+
+
+<textarea id = "blCanvas" style = "display:none;">
+function blCanvas(id,html){
+    var r = document.getElementById(id);
+    if(!r){
+        r = document.createElement("canvas");
+        r.id = id;
+        r.style.border = "1px solid blue";
+    }
+    r.innerHTML = html;
+    r.onclick = function(){alert(id);}
+    document.body.appendChild(r);
+    return r;
+}
+var c1 = blCanvas("c1","c1");
+var c2 =  blCanvas("c2","c2");
+c2.onclick = function(){alert("CCCC2");}
+c2.onmousemove = function(){
+  
+  var c = document.getElementById("c2");
+  var ctx = c.getContext("2d");
+  ctx.beginPath();  
+  var w = this.width;
+  var h = this.height;
+  ctx.fillStyle = "red";
+  ctx.fillRect(0,0,w,h);
+
+  var coord = coordinate(event);
+  var x = coord.coord_X;
+  var y = coord.coord_Y;
+  ctx.moveTo(0,0);
+  ctx.lineTo(x,y); 
+
+  var r = 20;
+  ctx.arc(x,y,r,0,2*Math.PI);
+  ctx.stroke();
+
+  ctx.font = "20px Arial";
+  ctx.fillStyle = "blue";
+  var s = "("+x+","+y+")";
+  ctx.fillText(s,x,y); 
+
+}
+
+</textarea>
+
+<textarea id = "blBat" style="display:none;">
+<!DOCTYPE html>
+<!-- blp.bat -->
+<html>
+<body>
+<script>
+
+</script>
+</body>
+</html>
+</textarea> 
+
+<textarea id = "blBtn" style = "display:none;">
+function blBtn(id,html){
+    var r = document.getElementById(id);
+    if(!r){
+        r = document.createElement("button");
+        r.id = id;
+    }
+    r.innerHTML = html;
+    r.onclick = function(){alert(id);}
+    document.body.appendChild(r);
+    return r;
+}
+var b1 = blBtn("b1","b1b");
+var b2 =  blBtn("b2","x2");
+b2.onclick = function(){alert("x2");}
+</textarea>
+
+<textarea id = "run" style="width:500px;height:200px;">
+</textarea> 
+
+<br> 
+
+<script>
+function blCreateUI(){
+	var t = document.getElementsByTagName("textarea");
+	for (var i = 0; i < t.length; i++){
+		var b = document.createElement("button");
+		b.id = t[i].id + "Btn";
+		if("run"==t[i].id) {
+			b.onclick = run;
+			b.style.backgroundColor = "green";
+		}
+		else 		b.onclick = blBtnClick;
+		b.innerHTML = t[i].id;
+		document.body.appendChild(b);
+	}
+	document.blLoadOK = false;
+	function gBlTimerFun(){
+		var s1 = document.getElementById("s1");
+		var blScriptBtn = document.getElementById("blScriptBtn");
+		var runBtn = document.getElementById("runBtn");
+		var fTest = "blNull";
+		if(!s1){
+			if(blScriptBtn) blScriptBtn.click();
+			if(runBtn) runBtn.click();
+		}
+		else if(!document.blLoadOK){
+			fTest = f[0];//"blOK";
+			var blMp4PlayerBtn = document.getElementById("blMp4PlayerBtn");
+		
+			if(blMp4PlayerBtn) blMp4PlayerBtn.click();
+			if(runBtn) runBtn.click();
+			var song1Btn = document.getElementById("1");
+          		if(song1Btn) song1Btn.click();	
+		}
+			var blDbg = document.getElementById("blDbg");
+			blDbg.innerHTML = new Date() + s1 + ":" + fTest;
+	}
+        setInterval(gBlTimerFun, 1000);
+}
+blCreateUI();
+
+
+function blBtnClick() {
+	var id = this.innerHTML;
+	var t0 = document.getElementById(id);
+	var t = document.getElementById("run");
+	t.value = t0.value;
+} 
+
+function run() {
+	var t = document.getElementById("run");
+	eval(t.value);
+}
+
+function createBat() {
+    
+    f1();
+    f2();
+
+
+    function f1() {
+	var t = document.getElementById("text");
+	var str = t.value;  
+        var res = str.replace(/<|>/gi, 
+    	function f(x){
+        	var s = '^' + x;
+            return s; 
+        }); 
+        t.value = res;
+    }
+
+    function f2() {
+        var t = document.getElementById("text");
+        var str = t.value;  
+        var r = str.split("\n");
+        var s = "";
+        for(var i = 0; i < r.length; i++)
+        {
+    	    s += "echo " + r[i] + ' 				<<index.html\n';	
+        } 
+        t.value = s;
+    }
+}
+ 
+//---------------------------------------------------????Firefox?¡ì??offsetX??offsetY??
+//?????a??????¨®¨²?¨²?????¡§????????????¡Á???
+function coordinate(e){
+  var o = window.event || e,
+      coord,
+      coord_X,
+      coord_Y;
+
+  coord_X = (o.offsetX === undefined) ? getOffset(o).X : o.offsetX;
+  coord_Y = (o.offsetY === undefined) ? getOffset(o).Y : o.offsetY;
+  coord = { "coord_X" : coord_X , "coord_Y" : coord_Y };
+  return coord;
+}
+function getOffset(e){
+  var target = e.target, // ???¡ã¡ä?¡¦??????????¨®
+      eventCoord,
+      pageCoord,
+      offsetCoord;
+
+  // ???????¡ã¡ä?¡¦?????????????????
+  pageCoord = getPageCoord(target);
+
+  // ?????a??????????????
+  eventCoord = {
+    X : window.pageXOffset + e.clientX,
+    Y : window.pageYOffset + e.clientY
+  };
+
+  // ?????¨½???a?????¨²?????¡§????????????¡Á???
+  offsetCoord = {
+    X : eventCoord.X - pageCoord.X,
+    Y : eventCoord.Y - pageCoord.Y
+  };
+  return offsetCoord;
+}
+function getPageCoord(element){
+  var coord = { X : 0, Y : 0 };
+  // ????¡ä¨®???¡ã¡ä?¡¦??????????¨²????????
+  // ?¡Â?? offsetParent ?????? offsetLeft ?¨¾ offsetTop ?????¨ª
+  while (element){
+    coord.X += element.offsetLeft;
+    coord.Y += element.offsetTop;
+    element = element.offsetParent;
+  }
+  return coord;
+}
+
+function getEventObject(W3CEvent) {//??????¡Á??????y
+ return W3CEvent || window.event;
+}
+function getPointerPosition(e) {//???Y?????¡Â???¨®??x,y?¨½?????y
+ e = e || getEventObject(e);
+ var x = e.pageX || (e.clientX + (document.documentElement.scrollLeft || document.body.scrollLeft));
+ var y = e.pageY || (e.clientY + (document.documentElement.scrollTop || document.body.scrollTop));
+
+ return { 'x':x,'y':y };
+}
+
+</script>
+
+</body>
+</html>
