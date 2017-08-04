@@ -1,4 +1,4 @@
-
-### [v0.0.4](https://github.com/littleflute/english/edit/master/Chao%20qing%20song/readme.md)
+### [v0.0.5](https://github.com/littleflute/english/edit/master/Chao%20qing%20song/readme.md)
 ### [Chapter 1 Living](Chapter 1 Living)
 ### [Chapter 2 Diet](Chapter 2 Diet)
+### [Chapter 3 Shopping](Chapter 3 Shopping)
