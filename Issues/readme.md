@@ -1,3 +1,4 @@
 
-### [v0.0.2](https://github.com/littleflute/english/edit/master/Issues/readme.md)
-### [12](12)
+### [v0.0.3](https://github.com/littleflute/english/edit/master/Issues/readme.md)
+### [13: Linda Chapter 2](13)
+### [12: Linda Chapter 1](12)
