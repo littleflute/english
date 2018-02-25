@@ -1,0 +1,42 @@
+<!DOCTYPE html>	  
+<html>  
+<body> 
+ECHO is off.
+<br> 
+<div id="DivCurTime"></div> 
+<br> 
+<button onclick="getCurTime()" type="button">Get current time position</button>  
+<button onclick="setCurTime(0)" type="button">00</button><br>   
+<button onclick="moveMS(-0.05)" type="button">Time-50ms</button>  
+<button onclick="moveMS(-0.01)" type="button">-10ms</button>  
+<button onclick="moveMS(0.01)" type="button">+10ms</button>  
+<button onclick="moveMS(0.05)" type="button">+50ms</button>  
+<button onclick="setCurTime(5)" type="button">Set time position to 5 seconds</button><br>   
+<button onclick="play('analyze.mp4')">1:analyze.mp4</button> 
+<button onclick="play('attitude.mp4')">2:attitude.mp4</button> 
+<button onclick="play('category.mp4')">3:category.mp4</button> 
+<br> 
+<video id="myVideo" width="720" height="480" controls> 
+ <source src="0.mp4" type="video/mp4">  
+Your browser does not support HTML5 video. 
+</video>  
+<script>  
+var vid = document.getElementById("myVideo"); 
+function play(i) {
+    vid.src=i; 
+    vid.load();
+    vid.play(); 
+}
+function getCurTime() {  
+   document.getElementById("DivCurTime").innerHTML= vid.currentTime; 
+}   
+function setCurTime(t) { 
+   vid.currentTime=t;  
+   getCurTime();
+}  
+function moveMS(ms) { 
+  vid.currentTime+=ms;
+  getCurTime();  
+}   
+</script> 
+</body> 
