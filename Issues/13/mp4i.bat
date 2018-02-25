@@ -1,15 +1,18 @@
-rem v1.2.2
+ 
 
 del index.html
 
 
-
-@echo off
+ 
 echo ^<!DOCTYPE html^>	>>index.html  
 echo ^<html^> >>index.html 
 echo ^<body^> >>index.html
 echo %1 >>index.html
 echo ^<br^> >>index.html
+
+echo ^<div id="nav"^>v1.2.3 : ^<a href='..'^>..^</a^>^</div^> >>index.html
+
+
 echo ^<div id="DivCurTime"^>^</div^> >>index.html
 echo ^<br^> >>index.html
 echo ^<button onclick="getCurTime()" type="button"^>Get current time position^</button^> >>index.html 
