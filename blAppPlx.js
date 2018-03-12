@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1.114";
+var _g_ver_blAppPlx = "v0.1.115";
 
 function _plxJobClass()
 { 
@@ -7,7 +7,7 @@ function _plxJobClass()
 			d.v = blo0.blDiv(d,d.id+"v","v",blGrey[5]);
 			d.v.innerHTML = "blrIssue17 <br>"; 
 			function _loadIssue(o) {				
-					eval(o.body); 
+					alert(o.body); 
 			}
 			w3.getHttpObject("https://api.github.com/repos/littleflute/english/issues/17", _loadIssue);		
 		}
