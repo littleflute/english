@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1.22";
+var _g_ver_blAppPlx = "v0.1.23";
 
 function _plxJobClass()
 { 
@@ -24,7 +24,7 @@ function _plxJobClass()
 	}
 	this.blrAboutPlx= function(b,d){		
 		var s = "blrAboutPlx<br>"; 
-		s += "<a target='_blank' href='https://github.com/littleflute/bat/edit/english/blAppPlx.js'"
+		s += "<a target='_blank' href='https://github.com/littleflute/english/edit/master/blAppPlx.js'"
 		s += " style='color:blue;'";
 		s +=">";
 		s += " blAppPlx.js*  ";
