@@ -1,0 +1,153 @@
+<!DOCTYPE html>  
+<html>		
+<head>		
+<title>		
+v0.1. 14  
+</title>		
+<style>				
+body {margin:0;}			
+.topnav {				
+  overflow		: hidden;	
+  background-color	: #333;		
+}					
+.topnav a {			
+  float		: left;		
+  display		: block;	
+  color		: #f2f2f2;	
+  text-align	: center;	
+  padding		: 14px 16px;	
+  text-decoration	: none;		
+  font-size	: 17px;		
+}					
+.topnav a:hover {			
+  background-color	: #ddd;		
+  color		: black;	
+}					
+.topnav .icon {			
+  display	: none;			
+}							
+@media screen and (max-width: 600px) {		
+  .topnav a:not(:first-child) {display: none;}	
+  .topnav a.icon {					
+    float: right;					
+    display: block;				
+  }						
+}							
+@media screen and (max-width: 600px) {		
+  .topnav.responsive {position: relative;}		
+  .topnav.responsive .icon {			
+    position: absolute;				
+    right: 0;					
+    top: 0;					
+  }						
+  .topnav.responsive a {				
+    float: none;					
+    display: block;				
+    text-align: left;				
+  }						
+}							
+</style>						
+</head>	
+<body>	
+<div class="topnav" id="myTopnav">						
+  <a target="_blank" href="http:www.beautifullover.org">Beautifullover</a>							
+  <a target="_blank" href="https://github.com/littleflute/bat/edit/master/bat/mp3index/mp3i.bat">mp3i.bat*</a>			
+  <a target="_blank" href="https://littleflute.github.io/beautifullover.org/">beautifullover_github</a>			
+  <a target="_blank" href="https://littleflute.github.io/blog">blog</a>							
+  <a target="_blank" href="https://github.com/settings/repositories">repositories</a>						
+  <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a> 	
+</div>							
+<div id = "id_div_wrap_4_plx" style="padding-left:16px">							
+  <h2>Responsive Topnav Example</h2>							
+  <p>Resize the browser window to see how it works.</p>							
+  <div id = "fileListID" style="border:1px red solid;"></div>				
+</div>							
+<script>							
+function myFunction() {							
+   var x = document.getElementById("myTopnav");							
+   if (x.className === "topnav") {							
+       x.className += " responsive";							
+   } else {							
+       x.className = "topnav";							
+   }							
+}							
+function addDiv2Div(ParentID,newID,newHTML) {			
+   var x = document.getElementById(ParentID);			
+   if (x) {							
+       var e = document.createElement("div");			
+       e.id = newID;						
+       e.innerHTML = newHTML;					
+       x.appendChild(e);						
+   }								
+}									
+</script>							
+<script id="s1">							
+    addDiv2Div("fileListID","xddbg","title");				
+    for (var i = 0; i < f.length; i++){				
+        addDiv2Div("fileListID","f"+i,f[i]);				
+    }   								
+</script>							
+para 1:  <br>	
+<a href="http://www.beautifullover.org" target="_blank">	
+beautifullover </a>	
+</br>	
+<a href="https://github.com/littleflute/BlCDs/issues/519" target="_blank">	
+issue519 </a>	
+<div id="curSong" style="border:1px solid green;"></div>	
+<p id="demo" style="border:1px solid red;"></p>		
+<br> <div id='song1'>02a.mp3</div>	
+<button id = "1" onclick="me.play(this)">1:02a.mp3</button> 
+<button id = "2" onclick="me.play(this)">2:02b.mp3</button> 
+<button id = "3" onclick="me.play(this)">3:03a.mp3</button> 
+<button id = "4" onclick="me.play(this)">4:03b.mp3</button> 
+<button id = "5" onclick="me.play(this)">5:04a.mp3</button> 
+<button id = "6" onclick="me.play(this)">6:04b.mp3</button> 
+<button id = "7" onclick="me.play(this)">7:05a.mp3</button> 
+<button id = "8" onclick="me.play(this)">8:05b.mp3</button> 
+<button id = "9" onclick="me.play(this)">9:06a.mp3</button> 
+<button id = "10" onclick="me.play(this)">10:06b.mp3</button> 
+<br> 
+<button id = "11" onclick="me.play(this)">11:07a.mp3</button> 
+<button id = "12" onclick="me.play(this)">12:07b.mp3</button> 
+<button id = "13" onclick="me.play(this)">13:08a.mp3</button> 
+<button id = "14" onclick="me.play(this)">14:08b.mp3</button> 
+<button id = "15" onclick="me.play(this)">15:09a.mp3</button> 
+<button id = "16" onclick="me.play(this)">16:09b.mp3</button> 
+<button id = "17" onclick="me.play(this)">17:10a.mp3</button> 
+<button id = "18" onclick="me.play(this)">18:10b.mp3</button> 
+<button id = "19" onclick="me.play(this)">19:11a.mp3</button> 
+<button id = "20" onclick="me.play(this)">20:11b.mp3</button> 
+<br> 
+<button id = "21" onclick="me.play(this)">21:11c.mp3</button> 
+<button id = "22" onclick="me.play(this)">22:11d.mp3</button> 
+<button id = "23" onclick="me.play(this)">23:11e.mp3</button> 
+<button id = "24" onclick="me.play(this)">24:11f.mp3</button> 
+<button id = "25" onclick="me.play(this)">25:12a.mp3</button> 
+<button id = "26" onclick="me.play(this)">26:12b.mp3</button> 
+<button id = "27" onclick="me.play(this)">27:12c.mp3</button> 
+<button id = "28" onclick="me.play(this)">28:12d.mp3</button> 
+<button id = "29" onclick="me.play(this)">29:12e.mp3</button> 
+<button id = "30" onclick="me.play(this)">30:12f.mp3</button> 
+<br> 
+<button id = "31" onclick="me.play(this)">31:1a.mp3</button> 
+<button id = "32" onclick="me.play(this)">32:1b.mp3</button> 
+<div id="timerShow" style="border:1px solid blue;"></div>	
+<button onclick="me.playId(1)">test</button>	
+<script>								
+	var xmlhttp = new XMLHttpRequest();				
+	xmlhttp.onreadystatechange = function() {				
+   	if(this.readyState == 4 && this.status == 200) {		
+       		var myObj = JSON.parse(this.responseText); 		
+       		document.getElementById("demo").innerHTML = myObj.songNum;	
+   	}								
+	};		
+	xmlhttp.open("GET", "https://littleflute.github.io/Elton-John/l.json", true);	
+	xmlhttp.send();							
+</script>							
+<script src="https://littleflute.github.io/vc6/XdHtml/blclass.js" type="text/javascript"></script>		
+<script>								
+blo0.blScript("id_script_player","player.js");	
+blo0.blScript("id_script_plx","plx.js");	
+</script>							
+</body>	
+</html>	
