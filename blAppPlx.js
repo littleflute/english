@@ -1,22 +1,15 @@
-var _g_ver_blAppPlx = "v0.1.23";
+var _g_ver_blAppPlx = "v0.1.31";
 
 function _plxJobClass()
 { 
-	this.blrIssue3C = function(b,d){
+	this.blrIssue17 = function(b,d){
 		if(!d.v){
 			d.v = blo0.blDiv(d,d.id+"v","v",blGrey[5]);
-			d.v.innerHTML = "blrIssue3C <br>"; 
-			function _loadIssue3Comments(o) {
-				for(i in o){
-					var a = o[i].body;
-					var b = a.split("~~~html");
-					var c = b[1].split("~~~"); 
-					d.v.innerHTML += c[0]; 
-					d.v.innerHTML += "<br>";
-				}
-
+			d.v.innerHTML = "blrIssue17 <br>"; 
+			function _loadIssue(o) {				
+					eval(o.body;) 
 			}
-			w3.getHttpObject("https://api.github.com/repos/littleflute/english/issues/3/comments", _loadIssue3Comments);		
+			w3.getHttpObject("https://api.github.com/repos/littleflute/english/issues/17", _loadIssue);		
 		}
 		_on_off_div(b,d);
 		
