@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1.54";
+var _g_ver_blAppPlx = "v0.1.111";
 
 function _plxJobClass()
 { 
@@ -6,7 +6,10 @@ function _plxJobClass()
 		if(!d.v){
 			d.v = blo0.blDiv(d,d.id+"v","v",blGrey[5]);
 			d.v.innerHTML = "blrIssue17 <br>"; 
-			 
+			function _loadIssue(o) {				
+					d.v.innerHTML = o.body; 
+			}
+			w3.getHttpObject("https://api.github.com/repos/littleflute/english/issues/17", _loadIssue);		
 		}
 		_on_off_div(b,d);
 		
