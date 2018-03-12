@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1.121";
+var _g_ver_blAppPlx = "v0.1.122";
 
 function _plxJobClass()
 { 
