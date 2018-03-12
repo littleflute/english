@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1.15";
+var _g_ver_blAppPlx = "v0.1.21";
 
 function _plxJobClass()
 { 
@@ -16,7 +16,7 @@ function _plxJobClass()
 				}
 
 			}
-			w3.getHttpObject("https://api.github.com/repos/littleflute/bat/issues/3/comments", _loadIssue3Comments);		
+			w3.getHttpObject("https://api.github.com/repos/littleflute/english/issues/3/comments", _loadIssue3Comments);		
 		}
 		_on_off_div(b,d);
 		
@@ -24,12 +24,12 @@ function _plxJobClass()
 	}
 	this.blrAboutPlx= function(b,d){		
 		var s = "blrAboutPlx<br>"; 
-		s += "<a target='_blank' href='https://github.com/littleflute/bat/edit/master/blAppPlx.js'"
+		s += "<a target='_blank' href='https://github.com/littleflute/bat/edit/english/blAppPlx.js'"
 		s += " style='color:blue;'";
 		s +=">";
 		s += " blAppPlx.js*  ";
 		s += "</a>"; 
-		s += "<a target='_blank'  href='https://littleflute.github.io/bat/blAppPlx.js'";
+		s += "<a target='_blank'  href='https://littleflute.github.io/english/blAppPlx.js'";
 		s += " style='color:yellow;'";
 		s +=">";
 		s += " blAppPlx.js ";
