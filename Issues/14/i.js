@@ -1,10 +1,16 @@
-var _parseFun = function (d,txt){
-      var str = "var a =" +  txt;  
+var _parseFun = function (d,txt){       
      d.innerHTML = "";
-     var s = "<a href='https://github.com/littleflute/english/issues/14' target='_blank'>#14 v0.0. 112<a/> - "; 
+     var s = "<a href='https://github.com/littleflute/english/issues/14' target='_blank'>#14 v0.0. 124<a/> - "; 
     s += "<a href='https://github.com/littleflute/english/edit/master/Issues/14/i.js' target='_blank'>i.js* <a/> - ";
     s += "<a href='https://littleflute.github.io/english/Issues/14/i.js' target='_blank'>i.js<a/>";
      blo0.blDiv(d,d.id+"_#14_", s,blColor[4]);
+
+     var l = txt.split("bllist:");
+    if(l.length<2) {var t = blo0.blDiv(d,d.id+"_title_", txt,blColor[4]);
+        return;
+     }
+     var str = "var a = " + l[1];
+
      eval(str);
      var t = blo0.blDiv(d,d.id+"_title_", a.title,blColor[4]);
      t.v = blo0.blDiv(t,t.id+"v", "v",blColor[5]);
