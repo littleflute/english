@@ -2,12 +2,15 @@
 d.mv = blo0.blMDiv(d,d.id+"mv","issue17",300,100,500,400,blGrey[0]);
 d.mv.v1 = blo0.blDiv(d.mv,d.mv.id + "v1","v1",blGrey[1]);
 function _jobClass(){
-  this.v = "v0.0. 51";
+  this.v = "v0.0. 52";
   this.blrComments= function(b,d){	
       if(!d.v){ 
          d.v =blo0.blDiv(d,d.id + "v","17C1",blGrey[1]);
          d.v1 =blo0.blDiv(d,d.id + "v1","v1",blGrey[2]);
          var _f = function (o){
+            for(i in o){
+                    var _b = blo0.blBtn(d.v , d.v.id + "_btn_" + i, i, blColor[i]);
+            } 
             eval(o[0].body);     
          }
          w3.getHttpObject("https://api.github.com/repos/littleflute/english/issues/17/comments", _f);	
