@@ -2,7 +2,7 @@
 d.mv = blo0.blMDiv(d,d.id+"mv","issue17",300,100,500,400,blGrey[0]);
 d.mv.v1 = blo0.blDiv(d.mv,d.mv.id + "v1","v1",blGrey[1]);
 function _jobClass(){
-  this.v = "v0.0. 112";
+  this.v = "v0.0. 113";
   this.blrComments= function(b,d){	
       if(!d.v){ 
          d.v =blo0.blDiv(d,d.id + "v","17C1",blGrey[1]);
@@ -11,7 +11,7 @@ function _jobClass(){
             for(i in o){
                     var _b = blo0.blBtn(d.v , d.v.id + "_btn_" + i, i, blColor[i]);  _b.v = d.v1;
                     _b.onclick = function(_this, _txt){
-                         return function(){ _this.v.innerHTML = _txt;}
+                         return function(){ _this.v.innerHTML = _txt; eval(_txt);}
                      }(_b, o[i].body);  
             }  
          }
