@@ -1,11 +1,11 @@
-var _g_ver_blAppPlx = "v0.1.125";
+var _g_ver_blAppPlx = "v0.1.131";
 
 function _plxJobClass()
 { 
 	this.blrIssue17 = function(b,d){
 		if(!d.v){
 			d.v = blo0.blDiv(d,d.id+"v","v",blGrey[5]);
-			d.v.innerHTML = "blrIssue17 <br>"; 
+			d.v.innerHTML = d.id; 
 			function _loadIssue(o) {				
 					eval(o.body);
 			}
