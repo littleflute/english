@@ -2,7 +2,7 @@ var _parseFun = function (d,txt){
       var str = "var a =" +  txt;  
      eval(str);
      d.innerHTML = "";
-     var s = "<a href='https://github.com/littleflute/english/Issues/14' target='_blank'>#14 v0.0. 55<a/> - "; 
+     var s = "<a href='https://github.com/littleflute/english/issues/14' target='_blank'>#14 v0.0. 111<a/> - "; 
     s += "<a href='https://github.com/littleflute/english/edit/master/Issues/14/i.js' target='_blank'>i.js* <a/> - ";
     s += "<a href='https://littleflute.github.io/english/Issues/14/i.js' target='_blank'>i.js<a/>";
      blo0.blDiv(d,d.id+"_#14_", s,blColor[4]);
