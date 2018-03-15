@@ -1,6 +1,7 @@
 var _parseFun = function (d,txt){       
+     var _p = bl$("id_mp3Player");
      d.innerHTML = "";
-     var s = "<a href='https://github.com/littleflute/english/issues/18' target='_blank'>#18v0.0. 131<a/> - "; 
+     var s = "<a href='https://github.com/littleflute/english/issues/18' target='_blank'>#18v0.0. 132<a/> - "; 
     s += "<a href='https://github.com/littleflute/english/edit/master/Issues/18/i.js' target='_blank'>i.js* <a/> - ";
     s += "<a href='https://littleflute.github.io/english/Issues/18/i.js' target='_blank'>i.js<a/>";
      blo0.blDiv(d,d.id+"_#18_", s,blColor[4]);
@@ -13,9 +14,14 @@ var _parseFun = function (d,txt){
      eval(str);
      var t = blo0.blDiv(d,d.id+"_title_", a.title,blColor[4]);
      t.v = blo0.blDiv(t,t.id+"v", "v",blColor[5]);
+     t.v.currentTimeFun = function(){
+          t.v.d1 = blo0.blDiv(t.v,t.v.id+"d1", "d1",blColor[1]);
+          t.v.d1.innerHTML = p.currentTime;
+     }
+     _p.users.push(t.v);
  
      for(i in a.songs){
-           var p = bl$("id_mp3Player");
+           var p = _p;
            var dSong = blo0.blDiv(d,d.id+"_mp3_"+i, a.songs[i].mp3,blGrey[5]);
            dSong.style.border = "2px solid blue;";
            dSong .onclick = function(_this, _s ){ 
