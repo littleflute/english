@@ -1,13 +1,13 @@
 var _parseFun = function (d,txt){       
      var _p = bl$("id_mp3Player");
      d.innerHTML = "";
-     var s = "<a href='https://github.com/littleflute/english/issues/26' target='_blank'>#26v0.0. 133<a/> - "; 
+     var s = "<a href='https://github.com/littleflute/english/issues/26' target='_blank'>#26v0.0. 141<a/> - "; 
     s += "<a href='https://github.com/littleflute/english/edit/master/Issues/26/i.js' target='_blank'>i.js* <a/> - ";
     s += "<a href='https://littleflute.github.io/english/Issues/26/i.js' target='_blank'>i.js<a/>";
      blo0.blDiv(d,d.id+"_#26_", s,blColor[4]);
 
      var l = txt.split("bllist:");
-    var l0= blo0.blDiv(d,d.id+"_l0_", l[0],blColor[4]);
+    var l0= blo0.blTextarea (d, "id_ta_4_i26", l[0],blGrey[0]);
 
      var str = "var a = " + l[1];
 
@@ -58,4 +58,3 @@ var _parseFun = function (d,txt){
            }(dSong )
       }
   }
-
