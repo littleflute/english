@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1.132";
+var _g_ver_blAppPlx = "v0.1.133";
 
 function _plxJobClass()
 { 
@@ -43,7 +43,10 @@ function CBlAppPlxClass()
 		blo0.blShowObj2Div(_plxUI.v,new _plxJobClass);
 	} 
 	else{
-		alert("no 'id_div_CXdMainFrame' !");
+		
+		_plxUI = blo0.blDiv(document.body, "_plx" , "blAppPlx: " + _g_ver_blAppPlx, blColor[3]);  
+		_plxUI.v = blo0.blDiv(_plxUI, _plxUI.id + "_v" , "v " , blColor[4]);  
+		blo0.blShowObj2Div(_plxUI.v,new _plxJobClass);
 	}
 }
  
