@@ -1,0 +1,18 @@
+
+### [v0.0.12](https://github.com/littleflute/english/edit/master/Issues/day-in-photos/20180320/readme.md) [..](..)
+### [https://littleflute.github.io/english/Issues/day-in-photos/20180319/](https://littleflute.github.io/english/Issues/day-in-photos/20180319/)
+### [issue](https://github.com/littleflute/english/issues/42)
+### day-in photos
+![1](1.jpg)
+![2](2.jpg)
+![3](3.jpg)
+![4](4.jpg)
+![5](5.jpg)
+![6](a1.jpg)
+![7](a2.jpg)
+![8](a3.jpg)
+![9](a4.jpg)
+![10](b1.jpg)
+![11](b2.jpg)
+![12](b3.jpg)
+![13](b4.jpg)
