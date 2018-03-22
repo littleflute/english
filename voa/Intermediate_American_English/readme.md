@@ -1,4 +1,6 @@
-### [v0.0.5](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..)
+### [v0.0.11](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..)
 
 ### [中级美国英语 第3课：many, much和there be](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001316&idx=6&sn=9a09bb5a91ed82ecf77c6b11cf96023f&chksm=1752851920250c0f6a6d68fe33fd9b2e23edfbe273d41b90df586e38423e625466e168f0abde&mpshare=1&scene=24&srcid=0323cI87sRqIFuW0IyYtluP6#rd)
+
+### [中级美国英语 第2课：used to 的用法](https://mp.weixin.qq.com/s/xb4Nw0Bf234M-lXUioW2_A)
 ### [中级美国英语 第1课：one，which one和单字介词](http://mp.weixin.qq.com/s/N4_Kkmhw-RPHVRG84FhmDw)
