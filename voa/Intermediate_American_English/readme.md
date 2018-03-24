@@ -1,4 +1,5 @@
-### [v0.0.21](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/45)
+### [v0.0.22](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/45)
+### [中级美国英语 第7课：动词一般过去式](https://mp.weixin.qq.com/s/rdTjVIQQVdWfz3OcknF8kQ)
 ### [中级美国英语 第6课：助动词 could](https://mp.weixin.qq.com/s/t9THEof48ZbKn0LVaqPA6Q)
 ### [中级美国英语 第5课：助动词 should和must](http://mp.weixin.qq.com/s/ySE8kW6wkzJeVRX1wv4cGQ)
 ### [中级美国英语 第4课: 助动词 can, may, will等](https://mp.weixin.qq.com/s/8gbu9Kuqwc20lZKO4Uv54w)
