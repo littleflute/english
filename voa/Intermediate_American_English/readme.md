@@ -1,4 +1,7 @@
-### [v0.0.23](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/45)
+### [v0.0.24](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/45)
+### [中级美国英语 第11课：形容词比较级与the same as](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001413&idx=3&sn=fffd86c7a0440acef8ca1a962975b331&chksm=175285b820250caef603ae7874c518ec8182d8a532d58d88bdca32d451a3c045f54c864f95b3&mpshare=1&scene=24&srcid=0325zC1D5q0rcM9iGO52MsxV#rd)
+### [中级美国英语 第10课：形容词比较级与as...as](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001413&idx=2&sn=1bc2345a345097433d8af25c7069070b&chksm=175285b820250cae4a7e64be069786b37c80e83c80ba343e7a73d201dc849626a4fba7edba3c&mpshare=1&scene=24&srcid=0325vHlEZGmXt8BQENDzTjzr#rd)
+### [中级美国英语 第9课：形容词比较级](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001413&idx=1&sn=d333ac34faf2d59042a8deef0e0f356b&chksm=175285b820250cae49de1c0e355e817ac7a9d94b6b6a8a50d08e3f1364d43f3cf5ace8258277&mpshare=1&scene=24&srcid=0325agvjl92ENQKFWVajV4QN#rd)
 ### [中级美国英语 第8课：过去式动词](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001316&idx=1&sn=3371e761eea1bf1ec42ab74bc1241d77&chksm=1752851920250c0f6ef4da71eed2bacc42d0d8a1968a8645f578dd91da6c300ce91aeb039183&mpshare=1&scene=24&srcid=0325Z4VnxVIkz0MBfSCUHtIo#rd)
 ### [中级美国英语 第7课：动词一般过去式](https://mp.weixin.qq.com/s/rdTjVIQQVdWfz3OcknF8kQ)
 ### [中级美国英语 第6课：助动词 could](https://mp.weixin.qq.com/s/t9THEof48ZbKn0LVaqPA6Q)
