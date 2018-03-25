@@ -1,5 +1,6 @@
-### [v0.0.14](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.15](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/46)
 
+### [美国之音慢速英语听力As It Is：March 24, 2018 Cambridge Analytica ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001153&idx=7&sn=4a3512243094564fd410634c1627b853&chksm=175286bc20250faa4feda0c27cf8d23c4183dd17ecfe35fe96e433540c8344f6c72dcc2e7ddc&mpshare=1&scene=24&srcid=032562RQpqJH8y9Lj40VkrHb#rd)
 ### [美国之音慢速英语听力As It Is：France Uses Fines to Fight Sexual Harassment](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001153&idx=6&sn=e8ecc9ff6eb301a686545038e377b184&chksm=175286bc20250faaafa9da2f5d067df1404848c6db197e52ae26485f09c26cf3d0c94c5b39c2&mpshare=1&scene=24&srcid=0325Gu3WIrbSFdxu8pMGi7ds#rd)
 ### [March 23, 2018 Turkey Targets More Suspected Followers of Gulen](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001153&idx=5&sn=28778d478e9cc1c570ae64c208515ac6&chksm=175286bc20250faaa96ff7df3ce57ac6ed4dce9b80bb3b5d7e57589532f4d82fcebed16266be&mpshare=1&scene=24&srcid=0325Dpx2hyXHtOUFUhtcmMrT#rd)
 ### [March 23, 2018 Vietnam Seeks Closer Ties with Australia](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001153&idx=4&sn=bd3e7210870a785e81cf284694372a36&chksm=175286bc20250faa61152d8d3bdbe8100a0e01b1e771085aef5c5b9c673063cce9e47bd34dc1&mpshare=1&scene=24&srcid=0325iI5C83awMk5RGJLJMdvv#rd)
