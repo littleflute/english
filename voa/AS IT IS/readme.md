@@ -1,5 +1,6 @@
-### [v0.0.24](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.25](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/46)
 
+### [美国之音慢速英语听力As It Is：March 26, 2018 US, Europe Order Russian ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001267&idx=5&sn=c861d86826a75badab8f50ed50ca5835&chksm=175286ce20250fd80d3760320b4791e67dc3842094c799af13158d92a17be043e3865b2910b5&mpshare=1&scene=24&srcid=0327a0MoT7tnwTiMR9CGDRcE#rd)
 ### [美国之音慢速英语听力As It Is：March 26, 2018 Healthiest Diets in the World](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001267&idx=4&sn=e03a42512fb1333b402c789a0fbb4eb7&chksm=175286ce20250fd897eaa004643e8d141c548a9b3c7bae6cf55c9984eb43d26e86a121025a04&mpshare=1&scene=24&srcid=0327sWSt0DTmHoD1ba5nZr47#rd)
 ### [美国之音慢速英语听力As It Is：March 26, 2018 Native American Traditions ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001267&idx=3&sn=96e3bd7ad7f3011767c8d654d2a555cb&chksm=175286ce20250fd871f279605e73c87a7c539b28a781795a6b4592b9db57ee3b9fe70bfee0f3&mpshare=1&scene=24&srcid=03276MOPKoZtWxRADlIUFkkb#rd)
 ### [美国之音慢速英语听力As It Is：March 25, 2018 A Man’s Mission to Farm ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001267&idx=2&sn=07b1c7dc33f7a5cfb8db2b996ba17ea2&chksm=175286ce20250fd8124e16893cc5d7453e2bfd77ce48a0b0d5a48314b9ab6acbf3f66bc18c05&mpshare=1&scene=24&srcid=0326KKRuAQusxVWV3VN9cS5c#rd)
