@@ -1,4 +1,4 @@
-### [v0.0.31](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.32](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
 ### [美国之音慢速英语听力As It Is：March 26, 2018 US, Europe Order Russian ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001267&idx=5&sn=c861d86826a75badab8f50ed50ca5835&chksm=175286ce20250fd80d3760320b4791e67dc3842094c799af13158d92a17be043e3865b2910b5&mpshare=1&scene=24&srcid=0327a0MoT7tnwTiMR9CGDRcE#rd)
 ### [美国之音慢速英语听力As It Is：March 26, 2018 Healthiest Diets in the World](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001267&idx=4&sn=e03a42512fb1333b402c789a0fbb4eb7&chksm=175286ce20250fd897eaa004643e8d141c548a9b3c7bae6cf55c9984eb43d26e86a121025a04&mpshare=1&scene=24&srcid=0327sWSt0DTmHoD1ba5nZr47#rd)
