@@ -1,4 +1,6 @@
-### [v0.0.51](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.52](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+
+### [VOA慢速英语听力As It Is：March 27,2018 2020 U.S. Census Will Ask ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000927&idx=6&sn=448e5b4681403e351e0d0e91e5b1c7ca&chksm=175287a220250eb4d5c811a19b9bd758c0a0775dd8cbdc65fb09b93f3b2e2c3c43f29777ba6f&mpshare=1&scene=24&srcid=0328026hpEoxH4L57xI6SFQB#rd)
 
 ### [VOA慢速英语听力As It Is：March 27,2018 Linda Brown, Whose Case ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000927&idx=5&sn=8a93d0f8b96c62a487c0d01067d954e7&chksm=175287a220250eb4b4356bd53c449bd0604f92cb3ade33b95ca9653a335e782336a7d1e462a2&mpshare=1&scene=24&srcid=0328PcHjGZbfLVjr5wrRIBp1#rd)
 ### [VOA慢速英语听力As It Is：March 27,2018 3D Printer Can Create ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000927&idx=4&sn=17bd312817ef5f410680717cfcd6eaa4&chksm=175287a220250eb47e183315457d696f2e841fa75902ae25194c26f87614e485072769140066&mpshare=1&scene=24&srcid=0328RusONcu7WYKYpJ6sR5yx#rd)
