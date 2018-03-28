@@ -1,5 +1,6 @@
-### [v0.0.43](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.44](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
+### [VOA慢速英语听力As It Is:March 27,18 Study: Most Americans Liked...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000927&idx=3&sn=b7c3b1c38fdff8670a0304525d94a80e&chksm=175287a220250eb4aeaf61918cd2a7706547cabbffbe08e10959ae08e3d3f1ceba7cbce340ff&mpshare=1&scene=24&srcid=0328AUeV0Rl3UWrhaBrK2fwB#rd)
 ### [美国之音慢速英语听力As It Is：March 27,2018 Afrotectopia: A Celebration...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000927&idx=2&sn=f6bae8aca2013a6eb211b61aae791eea&chksm=175287a220250eb4a5290b4f37871dad0a31edd59b0a687790b9edf1c235084640852c627208&mpshare=1&scene=24&srcid=0328U54cJiOePG4gaWbHOyVZ#rd)
 
 ### [VOA慢速英语听力As It Is：March 27, 2018 Afghanistan's First Female ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000927&idx=1&sn=f9cfc124c96d581157a7b29ed1baafce&chksm=175287a220250eb41d40b963096d9c79f559ebab7dfa8d74f2ed21f6519e092c8ab2e4a0513e&mpshare=1&scene=24&srcid=0328uiI726Jdf8Zha93DPxo9#rd)
