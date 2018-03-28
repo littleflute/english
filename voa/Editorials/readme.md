@@ -1,3 +1,3 @@
-### [v0.0.3](https://github.com/littleflute/english/edit/master/voa/Editorials/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/54)
+### [v0.0.4](https://github.com/littleflute/english/edit/master/voa/Editorials/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/54)
 
-### [美国之音标准英语听力：PEPFAR Saves Lives of Women and Girls](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001163&idx=2&sn=e9fe604bff2bbc47e3709aeae1fedd27&chksm=175286b620250fa0a8dd37b482306ec497f1521101568ebf195da95fae53d827f707d7bbf025&mpshare=1&scene=24&srcid=0325IcTm2VPlQlMwRuDOVXRt#rd)
+### [美国之音标准英语听力 Editorials：PEPFAR Saves Lives of Women and Girls](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001149&idx=1&sn=8efff039492a78f717cd3e05dc3e9b3c&chksm=1752864020250f56c9cecd510ad5c5d5bb0515015b449dfbf8682b3bd71c69146019306f3198&mpshare=1&scene=24&srcid=0328Onh7T9lsxHF1lX3UsNXg#rd)
