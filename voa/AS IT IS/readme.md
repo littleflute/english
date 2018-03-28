@@ -1,4 +1,6 @@
-### [v0.0.52](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.53](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+
+### [VOA慢速英语听力As It Is：March 27,2018 Official Who Supervised Larry...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000927&idx=7&sn=c1a948553cb1705b3bfd46829b15cc6c&chksm=175287a220250eb4c110253c6459de4c2a58badf8a12fdc1f8aa52b0920a6132ef6412197146&mpshare=1&scene=24&srcid=0328zFmu5IieiGYrQinaOcFQ#rd)
 
 ### [VOA慢速英语听力As It Is：March 27,2018 2020 U.S. Census Will Ask ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000927&idx=6&sn=448e5b4681403e351e0d0e91e5b1c7ca&chksm=175287a220250eb4d5c811a19b9bd758c0a0775dd8cbdc65fb09b93f3b2e2c3c43f29777ba6f&mpshare=1&scene=24&srcid=0328026hpEoxH4L57xI6SFQB#rd)
 
