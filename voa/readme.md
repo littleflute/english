@@ -1,5 +1,6 @@
-### [v.0.0.22](https://github.com/littleflute/english/edit/master/voa/readme.md) [..](..)
+### [v.0.0.23](https://github.com/littleflute/english/edit/master/voa/readme.md) [..](..)
 
+### [day-in-photos](https://littleflute.github.io/english/Issues/day-in-photos/)
 ### [Editorials](Editorials)
 ### [Arts - Entertainment](Arts - Entertainment)
 ### [AMERICAN STORIES](AMERICAN STORIES)
