@@ -1,10 +1,12 @@
-### [v0.0.115](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.121](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
+### [0329voa慢速As It Is：Hamas Plans Huge Demonstrations Along ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000013&idx=8&sn=64491271212105201fbe1cb90fcfe6eb&chksm=1752823020250b26a140b6ecbc3e21756746777a3be74d9ea2866b2358524b23a4d55d2569d3&mpshare=1&scene=24&srcid=0330poqJF4mYersqusXpGyxZ#rd)
 ### [0329voa慢速听力As It Is：North and South Korea Set Date for April...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000013&idx=7&sn=195246113827f79daee9ada90b3272a0&chksm=1752823020250b264d67a396ad7e95381cd4f2e4f6ae3b6756273b27ea9f298489f3af351fb2&mpshare=1&scene=24&srcid=0330Gk6dxwbFIPht7zicOm02#rd)
 ### [0329voa慢速听力As It Is：Judge Drops Murder Charges Against Man...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000013&idx=6&sn=dd4cf70e7d47699273eca2de28db1f8e&chksm=1752823020250b26ad2180616ae5f58c5714f562233109b1ca085ae8ce0d886049ee0c177b2c&mpshare=1&scene=24&srcid=03300i6VHqk4hgYM5kqD01UN#rd)
 ### [0329voa慢速听力As It Is: Scientists: Early Humans Were Not as ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000013&idx=5&sn=417bc954eb96734c5c0442056e458388&chksm=1752823020250b26bce6892fecc3712280ad8bef9c4065309fcac39326e958d6d6999f6b995f&mpshare=1&scene=24&srcid=0330wQsWcXe7PywLTk2wPW7y#rd)
 
 
+## 20180328
 ### [0328VOA慢速英语听力As It Is：Resistance to Ending Child Marriage ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000013&idx=4&sn=20913f416283fa9fb30dcd4defee490d&chksm=1752823020250b26ee85ae648e344db6c447c858328ee3b8815709046209461f8379f6d7a3fb&mpshare=1&scene=24&srcid=0329wA5AblbyjSyzvfJ9YYaq#rd)
 ### [0328voa慢速英语听力As It Is：Malaysia Passes Disputed Bill to Change...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000013&idx=3&sn=f076c683746591c546fb7c6a5cf79988&chksm=1752823020250b26d77a630c0ee64534d4442119a425a6123a43e8d7a22213cca1205677ea1c&mpshare=1&scene=24&srcid=0329foL8TZNsh5ulLYpSU8bS##)
 ### [0328voa慢速英语听力As It Is：What Are America's Favorite Dog Breeds?](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000013&idx=2&sn=6dedf526cc75eebdb37b01102008c0d9&chksm=1752823020250b2605784f6b63104fd43d81b1908dcd77ed5e13f964e6ed057fcaebdb1f2b6c&mpshare=1&scene=24&srcid=0329DOOzZDxthQ6vEXvC4zcl#rd)
