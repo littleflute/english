@@ -1,6 +1,7 @@
 
-### [v0.0.25](https://github.com/littleflute/english/edit/master/Issues/day-in-photos/readme.md) [..](..) [src](https://www.voanews.com/z/3413) [milestone](https://github.com/littleflute/english/milestone/8)
+### [v0.0.31](https://github.com/littleflute/english/edit/master/Issues/day-in-photos/readme.md) [..](..) [src](https://www.voanews.com/z/3413) [milestone](https://github.com/littleflute/english/milestone/8)
 
+### [漂泊者乐园：全球最新新闻图片快递-第10期](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485357&idx=1&sn=e3f076db1b14dc335d3ee827ae20064e&chksm=97528490a0250d861701d7842d9aafbfc6e74827cd7272a42ea6bc10cda3e070d1aea2064a99#rd)
 ### [漂泊者乐园：全球最新新闻图片快递-第9期](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485290&idx=1&sn=f83308562f607943601647b74b9c9718&chksm=97528457a0250d411cc673a30fb061a4eb233f5fc612e6ef20bac6d06158b6f478faa3223bfe#rd)
 
 ### [漂泊者乐园：全球最新新闻图片快递-第8期](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485225&idx=1&sn=295a97e2248b9d469edc0a4f35bb0c38&chksm=97528414a0250d02b0b114535801951b1581702f8b22618cbf549b409930cdbea5407b9df511##)
