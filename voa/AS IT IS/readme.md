@@ -1,5 +1,7 @@
-### [v0.0.123](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.124](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
+## 20180329
+### [0329voa慢速As It Is: In Pakistan, Malala Says She Will Continue...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=3&sn=d4e2a6d2a38296be752e199551b5bd60&chksm=1752822d20250b3b89b88d5330557c31042df4a7f329c11649aac15d5129bdf4c0dc891e734d&mpshare=1&scene=24&srcid=0330HBjPAIdeqMLLDF7zc1Dn#rd)
 ### [0329voa慢速As It Is: Happiness Class One of Yale University's Most...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=2&sn=9faebf6e1263db33f281393d6e8e54ea&chksm=1752822d20250b3b2f893c0d150f3073a2fc3089fd1971a41bdb6b12b635f95b04977dcf929a&mpshare=1&scene=24&srcid=0330kLT66PmmWil7bruftpb1#rd)
 ### [0329voa慢速As It Is：Robots Could Take Jobs from Africans...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=1&sn=c40879f80a4418463df478e271de5031&chksm=1752822d20250b3bb7da679207cbf8999b54a8ce122e009d6245e6f1d86773842e0cd959e5c4&mpshare=1&scene=24&srcid=0330XPN70qbcitHhYNVDA7jG#rd)
 ### [0329voa慢速As It Is：Hamas Plans Huge Demonstrations Along ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000013&idx=8&sn=64491271212105201fbe1cb90fcfe6eb&chksm=1752823020250b26a140b6ecbc3e21756746777a3be74d9ea2866b2358524b23a4d55d2569d3&mpshare=1&scene=24&srcid=0330poqJF4mYersqusXpGyxZ#rd)
