@@ -1,4 +1,4 @@
-### [v0.0.31](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/45) [tieba](https://tieba.baidu.com/f?kw=littleflute&fr=home)
+### [v0.0.32](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/45) [tieba](https://tieba.baidu.com/f?kw=littleflute&fr=home)
 ### [中级美国英语 第12课：形容词最高级](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001413&idx=4&sn=72375f4993cebb7678169a508922dd2b&chksm=175285b820250cae376891b637e57fc8558e885f3915648732af4eb6dec1a92933793e61ac30&mpshare=1&scene=24&srcid=0325Ahv9Mc50y6N9ochuRbac#rd)
 ### [中级美国英语 第11课：形容词比较级与the same as](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001413&idx=3&sn=fffd86c7a0440acef8ca1a962975b331&chksm=175285b820250caef603ae7874c518ec8182d8a532d58d88bdca32d451a3c045f54c864f95b3&mpshare=1&scene=24&srcid=0325zC1D5q0rcM9iGO52MsxV#rd)
 ### [中级美国英语 第10课：形容词比较级与as...as](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001413&idx=2&sn=1bc2345a345097433d8af25c7069070b&chksm=175285b820250cae4a7e64be069786b37c80e83c80ba343e7a73d201dc849626a4fba7edba3c&mpshare=1&scene=24&srcid=0325vHlEZGmXt8BQENDzTjzr#rd)
@@ -9,5 +9,5 @@
 ### [中级美国英语 第5课：助动词 should和must](http://mp.weixin.qq.com/s/ySE8kW6wkzJeVRX1wv4cGQ)
 ### [中级美国英语 第4课: 助动词 can, may, will等](https://mp.weixin.qq.com/s/8gbu9Kuqwc20lZKO4Uv54w)
 ### [中级美国英语 第3课：many, much和there be](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001316&idx=6&sn=9a09bb5a91ed82ecf77c6b11cf96023f&chksm=1752851920250c0f6a6d68fe33fd9b2e23edfbe273d41b90df586e38423e625466e168f0abde&mpshare=1&scene=24&srcid=0323cI87sRqIFuW0IyYtluP6#rd)
-### [中级美国英语 第2课：used to 的用法](https://mp.weixin.qq.com/s/xb4Nw0Bf234M-lXUioW2_A)
+### [^中级美国英语 第2课：used to 的用法](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485020&idx=2&sn=577d5ef0b21a3dce18eee9d70339e979&chksm=97528561a0250c779ba181ecdf1ff9074bf1d8a56469f6cdd179e53b5bb0a268989e7a2e06fe#rd)
 ### [中级美国英语 第1课：one，which one和单字介词](http://mp.weixin.qq.com/s/N4_Kkmhw-RPHVRG84FhmDw)
