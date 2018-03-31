@@ -1,7 +1,8 @@
-### [v0.0.131](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.132](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
 
 ### [C0330VOA慢速As It Is:Russia Expels More British Diplomats](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=6&sn=a97584464f998c52b4f7a67bedeb2840&chksm=1752822d20250b3b47991eaae2bea3abde1d183031e231aab64c60ddfb505a999c7d61bc9cac&mpshare=1&scene=24&srcid=0401J5EDyCeb6p060Cxmltfk#rd)
+### [B0330Bvoa慢速As It Is: Venezuela’s Famous Youth Orchestra Face...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=5&sn=d43ef569ae35a3dec7ddd8e9a710317f&chksm=1752822d20250b3b7ea0ef5ae9e8ab4a1ae06b9d6e3f0487f6378805ced276a1c3a28d2aa08b&mpshare=1&scene=24&srcid=0401h1DQKIUgwZpDmKBMQdsN#rd)
 ### [A0330VOA慢速As It Is:California Judge Rules Coffee Needs Cancer...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485446&idx=6&sn=0f3b508a28245427441cd372e3acbf19&chksm=97528b3ba025022d0caacba045041090d2895f702430b7049d078383be53d8a9b670b517b31a#rd)
 ## 20180329
 ### [0329voa慢速As It Is: In Pakistan, Malala Says She Will Continue...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=3&sn=d4e2a6d2a38296be752e199551b5bd60&chksm=1752822d20250b3b89b88d5330557c31042df4a7f329c11649aac15d5129bdf4c0dc891e734d&mpshare=1&scene=24&srcid=0330HBjPAIdeqMLLDF7zc1Dn#rd)
