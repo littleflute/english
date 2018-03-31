@@ -1,4 +1,4 @@
-### [v0.0.13](https://github.com/littleflute/english/edit/master/voa/ARTS_CULTURE/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/51) [src](https://learningenglish.voanews.com/z/986)
+### [v0.0.14](https://github.com/littleflute/english/edit/master/voa/ARTS_CULTURE/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/51) [src](https://learningenglish.voanews.com/z/986)
 
-### [VOA : New Dating App Uses DNA to Help People Find Love](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485410&idx=6&sn=5d88eff9d06f74f0cd9801d0d077dfcb&chksm=975284dfa0250dc9e068e6f41b049e7dc0aaed5f44d449c87ab5dadc0dc54289f37a64e5800e#rd)
+### [~VOA : New Dating App Uses DNA to Help People Find Love](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485410&idx=6&sn=5d88eff9d06f74f0cd9801d0d077dfcb&chksm=975284dfa0250dc9e068e6f41b049e7dc0aaed5f44d449c87ab5dadc0dc54289f37a64e5800e#rd)
 ### [March 23, 2018 What’s More and More Not In A Name? Gender Identity](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001279&idx=1&sn=c3fb741cbe1d7ca9757e0ca3349f3cea&chksm=175286c220250fd4e55022d0be8e6a2f74f1cf10cc3a6ceb276ce24f78319a57d9690d6f14a6&mpshare=1&scene=24&srcid=0325fQnSOfdL01q2XZ82mbUa#rd)
