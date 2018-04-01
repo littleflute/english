@@ -1,5 +1,6 @@
-### [v0.0.43](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/45) [tieba](https://tieba.baidu.com/f?kw=littleflute&fr=home)
-### [中级美国英语 第12课：形容词最高级](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001413&idx=4&sn=72375f4993cebb7678169a508922dd2b&chksm=175285b820250cae376891b637e57fc8558e885f3915648732af4eb6dec1a92933793e61ac30&mpshare=1&scene=24&srcid=0325Ahv9Mc50y6N9ochuRbac#rd)
+### [v0.0.44](https://github.com/littleflute/english/edit/master/voa/Intermediate_American_English/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/45) [tieba](https://tieba.baidu.com/f?kw=littleflute&fr=home)
+
+### [~中级美国英语 第12课：形容词最高级](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485500&idx=3&sn=b75bda9107922b80d0af08e07a6f6bf7&chksm=97528b01a0250217c80dcfe2fdc86e0ff042c3d25f7139b33cb6a4b0266a30aef1cd5e2d5ae1#rd)
 ### [~中级美国英语 第11课：形容词比较级与the same as](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485446&idx=8&sn=67bd6953598bab0bdd1d0c3e7c981208&chksm=97528b3ba025022dbfdda36ecb60a2875450214b444d232218b18c56284ffe26aee60021113a#rd)
 ### [~中级美国英语 第10课：形容词比较级与as...as](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485410&idx=7&sn=19241b1309a80dd7c25d9c60de39130d&chksm=975284dfa0250dc9172c1bb254a415b9543e591e35f58bbdaf0fe2617d9cfe8bab617aaf0ddf#rd)
 ### [~中级美国英语 第9课：形容词比较级](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485357&idx=5&sn=c44373728d555e83a096a85e8e5b6c9a&chksm=97528490a0250d865abba4b1dc0d3664d8900f8e5cd3b465fdb9a807ead89945c45ef36fc855#rd)
