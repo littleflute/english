@@ -1,5 +1,6 @@
-### [v0.0.22](https://github.com/littleflute/english/edit/master/voa/ARTS_CULTURE/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/51) [src](https://learningenglish.voanews.com/z/986)
+### [v0.0.23](https://github.com/littleflute/english/edit/master/voa/ARTS_CULTURE/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/51) [src](https://learningenglish.voanews.com/z/986)
 
+### [~VOA文化艺术: Celebrating an Italian Easter in Washington](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485532&idx=8&sn=d620e37eb22651116b1889461a6caadd&chksm=97528b61a0250277a737ef1c834ec4547797bfb7630fa1ac30da4051b18439773cf4eed2f4d5#rd)
 ### [~VOA文化艺术: Music Program at Sing Sing Prison Gives Detainees a...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485500&idx=7&sn=7e9b05578250d70c428a0992e1dcabdc&chksm=97528b01a0250217aae3847ce102cd48ef3904722335a02a488c226848cc7ace0cc92a563599#rd)
 ### [~voa慢速As It Is: FIFA to Investigate Russian Racism ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485500&idx=1&sn=37d27865ed9eb53440445137d6ee3e67&chksm=97528b01a0250217aeb3bbfd480ff712a6e14a4df99b21e23a07459854e10f4738bee78e2c33#rd)
 ### [~VOA文化艺术: Italian Foods at Easter](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485500&idx=8&sn=9a6e77928f11333ad6619d8f1ef45ee8&chksm=97528b01a0250217fee63bae86f2da145b9f1285e4700599ac6f853c0ad3ad020dd9e5faca89#rd)
