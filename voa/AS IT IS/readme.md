@@ -1,10 +1,10 @@
-### [v0.0.141](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.142](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
 ## 20180331
 ### [~Venezuela’s Famous Youth Orchestra Faces Tough Times](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485532&idx=4&sn=eb7c1c70126826d456083cba4babff5f&chksm=97528b61a0250277c0aac923ad76fbdcddd6283127106065641547b0c84bbba1eb264249af23##)
 ## 20180330
 ### [G0330Bvoa慢速As It Is:US Investigation Puts Pressure on...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001152&idx=2&sn=f29c67f360d6ae5b1c26777d155231f4&chksm=175286bd20250fab67760cbdd8be8522ca1f16cd8fd38d3520d2b7de814b436682ba614f29b6&mpshare=1&scene=24&srcid=0401xWQs5QpVhisWaPeXHvay##)
-### [F0330Bvoa慢速As It Is: FIFA to Investigate Russian Racism ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001152&idx=1&sn=c3db652f5602624ebe245c1a181add2a&chksm=175286bd20250fab0496de714722d6238cbf8be2cb718e5ff361d1cd9d27e6a22a423d01a23a&mpshare=1&scene=24&srcid=0401frjtvYoqFtPlonly96Zp#rd)
+### [~F0330Bvoa慢速As It Is: FIFA to Investigate Russian Racism ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485500&idx=1&sn=37d27865ed9eb53440445137d6ee3e67&chksm=97528b01a0250217aeb3bbfd480ff712a6e14a4df99b21e23a07459854e10f4738bee78e2c33#rd)
 ### [E0330Bvoa慢速As It Is:15 Palestinians Killed in Border Protests...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=8&sn=d8ac336d7c380be85ed9d5820d1fdfea&chksm=1752822d20250b3b5e662e1427807877ac639a1d5fa56210e0ebf0abe8686e9bf5fb50509eb5&mpshare=1&scene=24&srcid=0401xbVTXRbiszS22cbgFiDX#rd)
 ### [D0330Bvoa慢速As It Is:Wildlife Experts Worry About Lack of ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=7&sn=f0f44680e1dd4494290d00a78637b8fa&chksm=1752822d20250b3b1a14afa78ad9baa1815837850f5c4d43b5e2b620bc7680934a8e7b22410c&mpshare=1&scene=24&srcid=0401q7NhKTAWyuVmTSEsWFwH#rd)
 ### [C0330VOA慢速As It Is:Russia Expels More British Diplomats](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100000016&idx=6&sn=a97584464f998c52b4f7a67bedeb2840&chksm=1752822d20250b3b47991eaae2bea3abde1d183031e231aab64c60ddfb505a999c7d61bc9cac&mpshare=1&scene=24&srcid=0401J5EDyCeb6p060Cxmltfk#rd)
