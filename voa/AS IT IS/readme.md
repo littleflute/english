@@ -1,6 +1,8 @@
-### [v0.0.144](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.145](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
 ## 20180402
+[~ In Trade Dispute, China Put Import Taxes on US Goods](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485576&idx=8&sn=99109acfca0b9c9afa43406245fc954c&chksm=97528bb5a02502a3dd557640ce29bdd1bb6cf8bc5db4529f071539e65c0fea896e0109303f64#rd)
+[~ Winnie Mandela Dies at 81](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485576&idx=7&sn=ec59cb6ea755864d0687858711a394c6&chksm=97528bb5a02502a3be0183b5c61dbb65704345e8725b3f29625a99c85b0846a60fa8309e6260#rd)
 [~ US Investigation Puts Pressure on Burmese Refugees](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485576&idx=2&sn=ca4853c263163a86ab4b6fdee0640782&chksm=97528bb5a02502a3b88f95c1f5a2a3aab2599268a1dec9ae4ac18559159dff812c9c6725275d#rd)
 
 ## 20180401
