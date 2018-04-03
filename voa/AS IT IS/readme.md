@@ -1,9 +1,11 @@
-### [v0.0.143](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.144](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
 ## 20180402
 [~ US Investigation Puts Pressure on Burmese Refugees](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485576&idx=2&sn=ca4853c263163a86ab4b6fdee0640782&chksm=97528bb5a02502a3b88f95c1f5a2a3aab2599268a1dec9ae4ac18559159dff812c9c6725275d#rd)
 
 ## 20180401
+[~ Resistance to Ending Child Marriage Continues in Northern Nigeria](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485576&idx=5&sn=99b144a16d121a8c061b6faeae3f9ef6&chksm=97528bb5a02502a355eb8d935773395be3b5bb34e8e37f1b0778feed7ff7a10dc052b9da99b9#rd)
+[~ In India, More People Are Buying and Selling Gold Electronically](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485576&idx=4&sn=585f41d8b52d093eb5fcf70242b1c740&chksm=97528bb5a02502a343d78b6479b7a9a83a5d4789c2457d4872390213dacfe4e5a6415186e045#rd)
 [~ Happiness Class One of Yale University's Most Popular Ever](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485576&idx=3&sn=5f7c8e2f597e4ee2305e6aaf8cb0d7fa&chksm=97528bb5a02502a35fe23cec2b136bf68f48c6f96df3ab5cc58a8c1aba779391e0510c5b8599#rd)
 
 ## 20180331
