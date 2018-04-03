@@ -1,4 +1,7 @@
 ### [v0.0.141](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+
+## 20180331
+### [~Venezuela’s Famous Youth Orchestra Faces Tough Times](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485532&idx=4&sn=eb7c1c70126826d456083cba4babff5f&chksm=97528b61a0250277c0aac923ad76fbdcddd6283127106065641547b0c84bbba1eb264249af23##)
 ## 20180330
 ### [G0330Bvoa慢速As It Is:US Investigation Puts Pressure on...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001152&idx=2&sn=f29c67f360d6ae5b1c26777d155231f4&chksm=175286bd20250fab67760cbdd8be8522ca1f16cd8fd38d3520d2b7de814b436682ba614f29b6&mpshare=1&scene=24&srcid=0401xWQs5QpVhisWaPeXHvay##)
 ### [F0330Bvoa慢速As It Is: FIFA to Investigate Russian Racism ...](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100001152&idx=1&sn=c3db652f5602624ebe245c1a181add2a&chksm=175286bd20250fab0496de714722d6238cbf8be2cb718e5ff361d1cd9d27e6a22a423d01a23a&mpshare=1&scene=24&srcid=0401frjtvYoqFtPlonly96Zp#rd)
