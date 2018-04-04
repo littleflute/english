@@ -1,6 +1,7 @@
-### [v0.0.154](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
+### [v0.0.155](https://github.com/littleflute/english/edit/master/voa/AS%20IT%20IS/readme.md) [..](..) [src](https://learningenglish.voanews.com/z/3521) [issue](https://github.com/littleflute/english/issues/46)
 
 ## 20180403
+### [~ Remembering Their Father, Martin Luther King, Jr.](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485649&idx=3&sn=a21906e2d61533e38ef91febafd39e3e&chksm=97528beca02502fa3f8476e352808e09ad77b2ba882ab09ee858d3e23b29ca350520f0b9eccb#rd)
 ### [~ Migrants Bring Attention to US-Mexican Border Policies](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485649&idx=1&sn=9eabee67d192c5f28c9dd56c494c7444&chksm=97528beca02502faff6cd69a7c2fdd2997517ac2e94d0c46d217e8888c01bdbfb568c2778aab#rd)
 ### [~ Cooking Classes Aim to Restore Health After Addiction](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485607&idx=5&sn=6c9b5430d187928caf33a91cf1de9e13&chksm=97528b9aa025028c2aa23a68798a19524ad357e3a02b217f8c5e7812a7e07a1fa86568a92703#rd)
 ### [~ Thousands of US Teachers Strike to Demand Higher Pay](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485607&idx=6&sn=3faa812a86365bbcd7b9de18cd391d03&chksm=97528b9aa025028c41ea01b9538096225914ef1afb3712a567303cdeb3983e5b231f62ebdba4#rd)
