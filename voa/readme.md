@@ -1,4 +1,4 @@
-### [v.0.0.43](https://github.com/littleflute/english/edit/master/voa/readme.md) [..](..) [weixin](https://littleflute.github.io/weixin)
+### [v.0.0.44](https://github.com/littleflute/english/edit/master/voa/readme.md) [..](..) [weixin](https://littleflute.github.io/weixin)
 ### [learningenglish](learningenglish)
 ### [day-in-photos](https://littleflute.github.io/english/Issues/day-in-photos/)
 ### [Editorials](Editorials)
