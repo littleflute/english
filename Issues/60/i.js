@@ -1,13 +1,12 @@
-
-var s = '<div id="id_div_title">'; s += '<a href= "https://github.com/littleflute/english/issues/60" target="_blank">#60_v0.0. 112</a> ';
-s += "<a target='_blank' href='https://github.com/littleflute/english/edit/master/Issues/60/i.js'"
+var s = '<div class="header"><div class="header-right" id="id_div_title">'; s += '<a href= "https://github.com/littleflute/english/issues/60" target="_blank">#60_v0.0. 123</a> ';
+s += "<a  target='_blank' href='https://github.com/littleflute/english/edit/master/Issues/60/i.js'"
 s += " style='color:blue;'";		s +=">";		s += " i60.js*  ";		s += "</a> "; 
-		s += "<a target='_blank'  href='https://littleflute.github.io/english/Issues/60/i.js'";
+		s += "  <a   target='_blank'  href='https://littleflute.github.io/english/Issues/60/i.js'";
 		s += " style='color:yellow;'";
 		s +=">";
 		s += " i60.js ";
 		s += "</a>"; 
- s += '</div>';
+ s += '</div></div>';
 var d = blo0.blDiv(bl$("id_div_plx"),"id_blmd",s,blGrey[0]);
 var dt = bl$("id_div_title");
 dt.style.background = blGrey[3];
