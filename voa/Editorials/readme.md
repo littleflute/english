@@ -1,4 +1,10 @@
-### [v0.0.23](https://github.com/littleflute/english/edit/master/voa/Editorials/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/54) [src](https://editorials.voa.gov/)
+### [v0.0.24](https://github.com/littleflute/english/edit/master/voa/Editorials/readme.md) [..](..) [issue](https://github.com/littleflute/english/issues/54) [src](https://editorials.voa.gov/)
+
+## [1/8: 【目录】Editorials 美国之音标准英语听力 ----------](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100002349&idx=1&sn=66241b4c1afa151c384bc4184dd626db&scene=19#wechat_redirect)
+## [2/8: ](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100002349&idx=2&sn=3b4bbcafe7923266f2ddedaaa8611e29&scene=19#wechat_redirect)
+## [3/8:](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100002349&idx=3&sn=283d24cbe082e47865aab55b26a1024c&scene=19#wechat_redirect)
+## [4/8:](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100002349&idx=4&sn=f2294dad761fe350e99c44bddd0c8225&scene=19#wechat_redirect)
+## [5/8:](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=100002349&idx=5&sn=d96d49bfbe8dff4aa49ef0d7ce2b2068&scene=19#wechat_redirect)
 
 ### [~0328VOA标准英语听力 Editorials: Iranian Hacking and Stealing Exposed](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485357&idx=2&sn=44aa9a6b36378a3897383d6b2f07b23e&chksm=97528490a0250d86b212170b500ca19f4f9ecfbb12fe3d93544e5b403108831a77144e94b12e#rd)
 ### [~VOA标准英语听力0327:Increasing Pressure on Mexican Heroin Traffickers](https://mp.weixin.qq.com/s?__biz=MzIxMTUzOTUzOA==&mid=2247485410&idx=2&sn=d8fb64d529fc22309467ac6ff61d4066&chksm=975284dfa0250dc91d00cc9cfda0bd84653058d6e51884ce3a5b3a09c750ae62ef5ad972ac8c#rd)
