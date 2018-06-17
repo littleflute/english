@@ -21,4 +21,5 @@ v1.tb.b1.onclick = function(){
 	_add_time_Btn(v1,2,"2000ms");
 	_add_time_Btn(v1,5,"5000ms");
 	_add_time_Btn(v1,10,"10000ms");
+	_add_time_Btn(v1,11,"11000ms");
 }
