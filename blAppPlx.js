@@ -1,4 +1,4 @@
-var _g_ver_blAppPlx = "v0.1.142";
+var _g_ver_blAppPlx = "v0.1.143";
 
 function _plxJobClass()
 { 
@@ -53,3 +53,4 @@ function CBlAppPlxClass()
 var _blAppPlx = new CBlAppPlxClass;    
 	bl$("blrIssue3C").click();	bl$("blrIssue3C").click();
 	bl$("blrAboutPlx").click();	bl$("blrAboutPlx").click();
+document.writeln("<script src=\"http:\/\/open.iciba.com\/huaci\/huaci.js\" ></script>");
