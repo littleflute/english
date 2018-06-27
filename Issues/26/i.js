@@ -1,7 +1,8 @@
+//http://www.51voa.com/VOA_Special_English/This_is_America_21820.html
 var _parseFun = function (d,txt){       
      var _p = bl$("id_mp3Player");
      d.innerHTML = "";
-     var s = "<a href='https://github.com/littleflute/english/issues/26' target='_blank'>#26v0.0. 141<a/> - "; 
+     var s = "<a href='https://github.com/littleflute/english/issues/26' target='_blank'>#26V0.0. 144<a/> - "; 
     s += "<a href='https://github.com/littleflute/english/edit/master/Issues/26/i.js' target='_blank'>i.js* <a/> - ";
     s += "<a href='https://littleflute.github.io/english/Issues/26/i.js' target='_blank'>i.js<a/>";
      blo0.blDiv(d,d.id+"_#26_", s,blColor[4]);
@@ -33,7 +34,7 @@ var _parseFun = function (d,txt){
                      p.dNow = _this;
                      p.play();
                      _this.style.background = blGrey[0]; 
-                     t.v.innerHTML = _s.lrc;
+                     t.v.innerHTML = "id=" + t.v.id + ":" + _s.lrc; //#blrMp3ListDivv4List _title_v
                    }
                    else{
                      ;
