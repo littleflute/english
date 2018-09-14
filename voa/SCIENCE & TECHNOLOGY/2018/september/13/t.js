@@ -1,9 +1,9 @@
-var d = bl$("id1234");
-d.v2 = blo0.blDiv(d,d.id + "v2", "v2_t.js: v0.0. 11 ",blGrey[1]);
-d.v2.b1 = blo0.blBtn(d.v2,d.v2.id + "b1", "txt",blColor[1]);
-d.v2.b1.onclick = function(){
-    	d.v2. divTxt = blo0.blDiv(d.v2,d.v2.id + "divTxt", "divTxt : v0.0.2 ",blGrey[2]);
-	d.v2. divTxt.innerHTML = _txt;
+var dp = bl$("id1234");
+var v2 = blo0.blDiv(dp,dp.id + "v2", "v2_t.js: v0.0. 12 ",blGrey[1]);
+v2.b1 = blo0.blBtn(v2,v2.id + "b1", "txt",blColor[1]);
+v2.b1.onclick = function(){
+    	v2. divTxt = blo0.blDiv(v2,v2.id + "divTxt", "divTxt : v0.0.2 ",blGrey[2]);
+	v2. divTxt.innerHTML = _txt;
 }
 
 var _txt = function(){
