@@ -1,7 +1,10 @@
 <DIV ID = 'id_div_4_english_blPlx'></div>
 
-### [v0.0.115 ](https://github.com/littleflute/english/edit/master/README.md) 
+### [v0.0.121 ](https://github.com/littleflute/english/edit/master/README.md) 
 <div><button id="id_btn_4_blApp">+</button></div>
+
+ 
+<script src="http://open.iciba.com/huaci/huaci.js" ></script>
 
 ### [html](html)
 ### [voa](voa)
