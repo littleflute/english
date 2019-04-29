@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 02F0-3A78
+
+ Directory of C:\Users\13699\Downloads\weixin\bl\english\linda\book2\ch27
+
+2019/04/29  01:26    <DIR>          .
+2019/04/29  01:26    <DIR>          ..
+2019/04/29  01:26                 0 i.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  249,358,794,752 bytes free
